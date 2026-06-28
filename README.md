@@ -47,7 +47,7 @@ pip install -r requirements.txt
 Open the notebook:
 
 ```text
-IVDs-research-project_classification.ipynb
+lumbar_spine_MRI_IVDs_3dcnn_classification.ipynb
 ```
 
 and execute the cells sequentially.
