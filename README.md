@@ -32,8 +32,8 @@ The experiments were performed using the **SPIDER** lumbar spine MRI dataset. Pl
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ivd-degeneration-3dcnn.git
-cd ivd-degeneration-3dcnn
+git clone https://github.com/zknapinska/lumbar-spine-ivds-degeneration-classification-3dcnn.git
+cd lumbar-spine-ivds-degeneration-classification-3dcnn
 ```
 
 Install the required packages:
